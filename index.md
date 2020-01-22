@@ -11,4 +11,4 @@ Percy is an modern SharePoint Intranet Accelerator platform
 {: .fs-6 .fw-300 }
 
 ## Learn more
-[Link](https://www.perspicuity.co.uk/percy-intranet/)
+[https://www.perspicuity.co.uk/percy-intranet/](https://www.perspicuity.co.uk/percy-intranet/)
